@@ -1,30 +1,30 @@
 h1{
     font-size: 40px;
     text-align: center;
-    border-bottom: 1px solid gray;
+    border-bottom: 1px solid red;
     margin: 0;
     padding: 20px;
-    color: violet;
+    color: gray;
 }
 #grid ol{
-    border-right: 1px solid gray;
+    border-right: 1px solid red;
     margin: 0;
     padding: 20px;
     width: 300px;
-    color: mediumspringgreen;
+    color: gray;
     padding-left: 33px;
     line-height: 30px;
 }
 a{
-    color: yellow;
+    color: gray;
     text-decoration-line: none;    
 }
 body{
-    background-color: pink;
+    background-color: #36454f;
     margin: 0;
 }
 p{
-    color: mediumspringgreen;
+    color: gray;
 }
 #grid{
     display: grid;
@@ -34,7 +34,7 @@ p{
     padding-left: 25px;
 }
 li{
-    color: mediumspringgreen;
+    color: gray;
 }
 #article p{
     line-height: 30px;
