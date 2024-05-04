@@ -4,14 +4,14 @@ h1{
     border-bottom: 1px solid red;
     margin: 0;
     padding: 20px;
-    color: gray;
+    color: white;
 }
 #grid ol{
     border-right: 1px solid red;
     margin: 0;
     padding: 20px;
     width: 300px;
-    color: gray;
+    color: white;
     padding-left: 33px;
     line-height: 30px;
 }
@@ -24,7 +24,7 @@ body{
     margin: 0;
 }
 p{
-    color: gray;
+    color: white;
 }
 #grid{
     display: grid;
@@ -34,7 +34,7 @@ p{
     padding-left: 25px;
 }
 li{
-    color: gray;
+    color: white;
 }
 #article p{
     line-height: 30px;
